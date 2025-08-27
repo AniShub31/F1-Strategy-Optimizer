@@ -1,0 +1,589 @@
+F1 RACE ANALYSIS REPORT
+==================================================
+
+
+        DRIVER PERFORMANCE REPORT: ALB
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.451s
+        - Best Lap Time: 89.718s
+        - Worst Lap Time: 128.459s
+        - Standard Deviation: 7.606s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 95.079s
+        - Degradation: 6.166s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-38.0 (11 laps)
+        - Average Pace: 105.220s
+        - Degradation: -30.616s
+        
+        Stint 3 (MEDIUM):
+        - Laps: 39.0-52.0 (14 laps)
+        - Average Pace: 92.206s
+        - Degradation: -27.960s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: ALO
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.358s
+        - Best Lap Time: 89.710s
+        - Worst Lap Time: 124.427s
+        - Standard Deviation: 7.410s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 95.007s
+        - Degradation: 8.039s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-38.0 (11 laps)
+        - Average Pace: 104.672s
+        - Degradation: -25.743s
+        
+        Stint 3 (MEDIUM):
+        - Laps: 39.0-52.0 (14 laps)
+        - Average Pace: 92.433s
+        - Degradation: -27.804s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: BOT
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 51
+        - Average Lap Time: 97.821s
+        - Best Lap Time: 91.277s
+        - Worst Lap Time: 126.628s
+        - Standard Deviation: 7.597s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-26.0 (26 laps)
+        - Average Pace: 95.987s
+        - Degradation: 5.243s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 27.0-37.0 (11 laps)
+        - Average Pace: 105.781s
+        - Degradation: -25.380s
+        
+        Stint 3 (SOFT):
+        - Laps: 38.0-51.0 (14 laps)
+        - Average Pace: 94.974s
+        - Degradation: -34.411s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: HAM
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 95.136s
+        - Best Lap Time: 89.438s
+        - Worst Lap Time: 120.866s
+        - Standard Deviation: 6.838s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 93.726s
+        - Degradation: 9.149s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-38.0 (11 laps)
+        - Average Pace: 102.917s
+        - Degradation: -23.646s
+        
+        Stint 3 (SOFT):
+        - Laps: 39.0-52.0 (14 laps)
+        - Average Pace: 91.740s
+        - Degradation: -27.243s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: HUL
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.207s
+        - Best Lap Time: 89.836s
+        - Worst Lap Time: 122.727s
+        - Standard Deviation: 6.797s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-26.0 (26 laps)
+        - Average Pace: 94.345s
+        - Degradation: 1.687s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 27.0-39.0 (13 laps)
+        - Average Pace: 103.790s
+        - Degradation: -25.482s
+        
+        Stint 3 (SOFT):
+        - Laps: 40.0-52.0 (13 laps)
+        - Average Pace: 92.349s
+        - Degradation: -24.812s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: LEC
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 51
+        - Average Lap Time: 97.795s
+        - Best Lap Time: 89.748s
+        - Worst Lap Time: 123.138s
+        - Standard Deviation: 8.426s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-19.0 (19 laps)
+        - Average Pace: 93.955s
+        - Degradation: 6.205s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 20.0-27.0 (8 laps)
+        - Average Pace: 108.333s
+        - Degradation: -14.357s
+        
+        Stint 3 (INTERMEDIATE):
+        - Laps: 28.0-37.0 (10 laps)
+        - Average Pace: 104.247s
+        - Degradation: -24.781s
+        
+        Stint 4 (SOFT):
+        - Laps: 38.0-51.0 (14 laps)
+        - Average Pace: 92.376s
+        - Degradation: -26.137s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: MAG
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.869s
+        - Best Lap Time: 90.093s
+        - Worst Lap Time: 125.299s
+        - Standard Deviation: 7.833s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 95.305s
+        - Degradation: 7.644s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-37.0 (10 laps)
+        - Average Pace: 106.203s
+        - Degradation: -23.261s
+        
+        Stint 3 (SOFT):
+        - Laps: 38.0-52.0 (15 laps)
+        - Average Pace: 93.463s
+        - Degradation: -31.949s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: NOR
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 95.281s
+        - Best Lap Time: 89.262s
+        - Worst Lap Time: 120.915s
+        - Standard Deviation: 6.544s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 93.606s
+        - Degradation: 7.459s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-39.0 (12 laps)
+        - Average Pace: 102.577s
+        - Degradation: -24.169s
+        
+        Stint 3 (SOFT):
+        - Laps: 40.0-52.0 (13 laps)
+        - Average Pace: 92.025s
+        - Degradation: -23.927s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: OCO
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 50
+        - Average Lap Time: 99.155s
+        - Best Lap Time: 90.875s
+        - Worst Lap Time: 122.736s
+        - Standard Deviation: 8.321s
+        
+        Stint Analysis:
+        
+        Stint 1 (SOFT):
+        - Laps: 1.0-19.0 (19 laps)
+        - Average Pace: 95.542s
+        - Degradation: -1.321s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 20.0-21.0 (2 laps)
+        - Average Pace: 110.381s
+        - Degradation: -21.289s
+        
+        Stint 3 (MEDIUM):
+        - Laps: 22.0-26.0 (5 laps)
+        - Average Pace: 106.969s
+        - Degradation: 3.502s
+        
+        Stint 4 (INTERMEDIATE):
+        - Laps: 27.0-38.0 (12 laps)
+        - Average Pace: 104.627s
+        - Degradation: -23.296s
+        
+        Stint 5 (MEDIUM):
+        - Laps: 39.0-50.0 (12 laps)
+        - Average Pace: 94.276s
+        - Degradation: -28.522s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: PER
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 50
+        - Average Lap Time: 99.301s
+        - Best Lap Time: 89.707s
+        - Worst Lap Time: 125.507s
+        - Standard Deviation: 9.375s
+        
+        Stint Analysis:
+        
+        Stint 1 (HARD):
+        - Laps: 1.0-19.0 (19 laps)
+        - Average Pace: 94.378s
+        - Degradation: -7.590s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 20.0-28.0 (9 laps)
+        - Average Pace: 108.206s
+        - Degradation: -13.926s
+        
+        Stint 3 (INTERMEDIATE):
+        - Laps: 29.0-37.0 (9 laps)
+        - Average Pace: 105.098s
+        - Degradation: -24.688s
+        
+        Stint 4 (MEDIUM):
+        - Laps: 38.0-47.0 (10 laps)
+        - Average Pace: 93.959s
+        - Degradation: -29.376s
+        
+        Stint 5 (SOFT):
+        - Laps: 48.0-50.0 (3 laps)
+        - Average Pace: 104.191s
+        - Degradation: -35.800s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: PIA
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 95.375s
+        - Best Lap Time: 88.748s
+        - Worst Lap Time: 121.184s
+        - Standard Deviation: 7.335s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-28.0 (28 laps)
+        - Average Pace: 94.496s
+        - Degradation: 14.968s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 29.0-38.0 (10 laps)
+        - Average Pace: 103.682s
+        - Degradation: -24.078s
+        
+        Stint 3 (MEDIUM):
+        - Laps: 39.0-52.0 (14 laps)
+        - Average Pace: 91.198s
+        - Degradation: -24.730s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: RIC
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 51
+        - Average Lap Time: 97.196s
+        - Best Lap Time: 90.735s
+        - Worst Lap Time: 123.328s
+        - Standard Deviation: 7.215s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-26.0 (26 laps)
+        - Average Pace: 95.290s
+        - Degradation: 2.098s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 27.0-37.0 (11 laps)
+        - Average Pace: 105.518s
+        - Degradation: -22.305s
+        
+        Stint 3 (SOFT):
+        - Laps: 38.0-51.0 (14 laps)
+        - Average Pace: 94.197s
+        - Degradation: -28.514s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: RUS
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 33
+        - Average Lap Time: 96.111s
+        - Best Lap Time: 91.298s
+        - Worst Lap Time: 124.342s
+        - Standard Deviation: 7.152s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 93.870s
+        - Degradation: 12.487s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-33.0 (6 laps)
+        - Average Pace: 106.199s
+        - Degradation: -18.121s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: SAI
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.046s
+        - Best Lap Time: 88.293s
+        - Worst Lap Time: 121.664s
+        - Standard Deviation: 7.163s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-26.0 (26 laps)
+        - Average Pace: 93.695s
+        - Degradation: 3.782s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 27.0-39.0 (13 laps)
+        - Average Pace: 103.364s
+        - Degradation: -24.862s
+        
+        Stint 3 (HARD):
+        - Laps: 40.0-50.0 (11 laps)
+        - Average Pace: 92.157s
+        - Degradation: -27.319s
+        
+        Stint 4 (SOFT):
+        - Laps: 51.0-52.0 (2 laps)
+        - Average Pace: 100.419s
+        - Degradation: -24.253s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: SAR
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.847s
+        - Best Lap Time: 89.972s
+        - Worst Lap Time: 125.981s
+        - Standard Deviation: 7.444s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 95.385s
+        - Degradation: 10.474s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-38.0 (11 laps)
+        - Average Pace: 105.630s
+        - Degradation: -27.170s
+        
+        Stint 3 (SOFT):
+        - Laps: 39.0-52.0 (14 laps)
+        - Average Pace: 92.763s
+        - Degradation: -24.168s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: STR
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.224s
+        - Best Lap Time: 89.897s
+        - Worst Lap Time: 121.611s
+        - Standard Deviation: 6.872s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-26.0 (26 laps)
+        - Average Pace: 94.426s
+        - Degradation: 1.676s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 27.0-39.0 (13 laps)
+        - Average Pace: 103.991s
+        - Degradation: -23.852s
+        
+        Stint 3 (MEDIUM):
+        - Laps: 40.0-52.0 (13 laps)
+        - Average Pace: 92.052s
+        - Degradation: -25.979s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: TSU
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 96.661s
+        - Best Lap Time: 90.229s
+        - Worst Lap Time: 123.448s
+        - Standard Deviation: 7.098s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-27.0 (27 laps)
+        - Average Pace: 95.053s
+        - Degradation: 7.017s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 28.0-38.0 (11 laps)
+        - Average Pace: 105.014s
+        - Degradation: -24.778s
+        
+        Stint 3 (SOFT):
+        - Laps: 39.0-52.0 (14 laps)
+        - Average Pace: 93.198s
+        - Degradation: -26.547s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: VER
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 52
+        - Average Lap Time: 95.164s
+        - Best Lap Time: 88.952s
+        - Worst Lap Time: 119.169s
+        - Standard Deviation: 6.703s
+        
+        Stint Analysis:
+        
+        Stint 1 (MEDIUM):
+        - Laps: 1.0-26.0 (26 laps)
+        - Average Pace: 93.645s
+        - Degradation: 4.780s
+        
+        Stint 2 (INTERMEDIATE):
+        - Laps: 27.0-38.0 (12 laps)
+        - Average Pace: 102.784s
+        - Degradation: -23.206s
+        
+        Stint 3 (HARD):
+        - Laps: 39.0-52.0 (14 laps)
+        - Average Pace: 91.453s
+        - Degradation: -29.222s
+        
+==================================================
+
+        DRIVER PERFORMANCE REPORT: ZHO
+        ======================================
+        
+        Race Overview:
+        - Total Laps: 50
+        - Average Lap Time: 100.031s
+        - Best Lap Time: 91.014s
+        - Worst Lap Time: 126.729s
+        - Standard Deviation: 9.213s
+        
+        Stint Analysis:
+        
+        Stint 1 (SOFT):
+        - Laps: 1.0-12.0 (12 laps)
+        - Average Pace: 95.066s
+        - Degradation: -7.996s
+        
+        Stint 2 (MEDIUM):
+        - Laps: 13.0-19.0 (7 laps)
+        - Average Pace: 99.891s
+        - Degradation: -8.736s
+        
+        Stint 3 (INTERMEDIATE):
+        - Laps: 20.0-26.0 (7 laps)
+        - Average Pace: 110.438s
+        - Degradation: -20.842s
+        
+        Stint 4 (INTERMEDIATE):
+        - Laps: 27.0-37.0 (11 laps)
+        - Average Pace: 105.573s
+        - Degradation: -22.907s
+        
+        Stint 5 (SOFT):
+        - Laps: 38.0-50.0 (13 laps)
+        - Average Pace: 94.395s
+        - Degradation: -34.980s
+        
+==================================================
